@@ -3,29 +3,23 @@ Is possible to live from YTB with a small channel?
 
 | Requirements | Skills |
 |--------------|--------|
-| - `python3.10`<br> - `pandas`<br> - `excel`<br> - `power query`<br> - `Tableau`  |  - `Dashboard design (Tableau)`<br> - `Data cleaning and transformation`<br> - `Data wrangling`<br> - `YoY KPI calculation` |
+| - `python3.10`<br> - `Pandas`<br> - `Numpy`<br> - `excel`<br> - `Bigquery`<br>  |  - `Data extracting`<br> - `Data cleaning and transformation`<br> - `Data wrangling`<br> - `API`<br> - `Data Anlysis` 
 
-## Usage
 
-### HowManyNamesByYear 
-Select the most n common names for the sex selected from the dataset baby_names.csv.
+## Anlysis
 
-#### Example
-```bash
-python3 HowManyNamesByYear "csv_baby_names__path.csv" 100 'F'
-```
-
-## Visualization
-
-### 01. Wide Format
+### 01. Evolution by video type
 Wide format is the default format of baby_names_result.csv. This format works with tools such as Flourish. You can see the dinamic graphic in flourish [here](https://public.flourish.studio/visualisation/27433129/)
 
 <img src="https://github.com/rleonardg/BabyNamePerYear/blob/main/assets/flourish_dynamic_bar_image.png">
 
-### 02. Long Format
+### 02. Median duration
 The Long Format is the common format for tools such as Power BI and tableau. Can be obtain by ['unpivot columns'](https://support.microsoft.com/en-us/office/unpivot-columns-power-query-0f7bad4b-9ea1-49c1-9d95-f588221c7098) excel option. You can see the public tableau dashboard [here](https://public.tableau.com/app/profile/ra.l.leonardo.gabriel/viz/145-Years-Baby-Girl-Evolution/Dashboard1)
 
 <img src="https://github.com/rleonardg/BabyNamePerYear/blob/main/assets/tableau_dashboard_image.png">
 
+### 03. HighLlighted videos 
+
+
 ## Resources
-- [SSA](https://www.ssa.gov/oact/babynames/)
+- [youtube api v3](https://developers.google.com/youtube/v3/docs?hl=es-419)
