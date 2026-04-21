@@ -23,7 +23,7 @@ Has been calculated for long videos. We can observe in average the videos long 1
 <img src="https://github.com/rleonardg/Anlysis_channel_YTB/blob/main/assets/median_duration_videos.png">
 
 ### 3. HighLlighted videos 
-We cant clearly intedify spikes. However within the 'HowTo and Style' category, videos focused on how to get cheap furniture tend to perform better. For example: 'Mis hijos compran un sofá por 1 euro y lo traen solos', 'Socorrooooo 👀 voy a la tienda de segunda mano y las tentaciones se apoderan de mi',  'MUEBLES A 1€ en la TIENDA de SEGUNDA MANO' con un 20%
+We cant clearly intedify spikes. However within the 'HowTo and Style' category, videos focused on how to get cheap furniture tend to perform better. For example: 'Mis hijos compran un sofá por 1 euro y lo traen solos', 'Socorrooooo 👀 voy a la tienda de segunda mano y las tentaciones se apoderan de mi',  'MUEBLES A 1€ en la TIENDA de SEGUNDA MANO'
 
 There is also a notable interest in low-cost home makeover. For example:
 'Cambio radical de la buhardilla low cost ✨️ mi lugar del olvido  👀' con un 21% ese mes
