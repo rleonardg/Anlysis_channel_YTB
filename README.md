@@ -6,7 +6,7 @@ Is possible to live from YTB with a small channel?
 | - `python3.10`<br> - `Pandas`<br> - `Numpy`<br> - `excel`<br> - `Bigquery`<br>  |  - `Data extracting`<br> - `Data cleaning and transformation`<br> - `Data wrangling`<br> - `API`<br> - `Data Anlysis` 
 
 ## Introduction
-The data was collected from the channel [@cintikahome](https://www.youtube.com/@cintikahome). This anlysis aims to estimate whether a small youtube channel can, on average, generate half of the minimum wage in Spain.
+The data was collected from the channel [@cintikahome](https://www.youtube.com/@cintikahome). This analysis aims to estimate whether a small youtube channel can, on average, generate half of the minimum wage in Spain.
 
 ## Analysis
 
